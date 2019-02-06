@@ -1,5 +1,5 @@
 # Funcai
-Experiment project to test post code to an API
+Experiment project to test posting code to an API
 
 I was really inspired by the idea of OData and GraphQL and I wanted to experiment with an idea I had about pushing code to the API and have the code running on the native collection of data the API already provides.
 
